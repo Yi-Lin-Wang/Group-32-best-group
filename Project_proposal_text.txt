@@ -1,8 +1,8 @@
-Title
+Title: 
    Introduction:
         1) Provide some relevant background information on the topic so that someone unfamiliar with it will be prepared to understand the rest of your proposal
         2) Clearly state the question you will try to answer with your project
-        which variables from the dataset have the most significant impact of predicting heart disease?
+        Which variables from the dataset have the most significant impact of predicting heart disease?
         3) Identify and describe the dataset that will be used to answer the question
     Preliminary exploratory data analysis:
         Demonstrate that the dataset can be read from the web into R 
@@ -18,3 +18,8 @@ Title
         What future questions could this lead to?
 
 Please submit your group project proposal. Only one member of your team needs to submit. 
+
+
+
+Title: Most significant variables affecting heart disease. 
+The question we want to answer is "Which variables from the dataset have the most significant impact on predicting heart disease?". Heart disease data was collected from four different locations: Cleveland, Hungary, Switzerland, and the VA Long Beach. The dataset contains 76 attributes, with 14 main attibutes that we will be considering. The data was donated on July 1, 1988. 
